@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zeus-ally
+- 👋 Hi, I’m Pankaj Sadhotra
 - 👀 I’m interested in Building cool Projects
 - 🌱 I’m currently learning Web dev
 - 💞️ I’m looking to collaborate on open source projects
